@@ -1,0 +1,33 @@
+baseURL = 'https://www.cemosan61.github.io/'
+languageCode = 'en-us'
+title = 'Houss Photography'
+description = 'Let me tell your story in a picture'
+theme='gallery'
+copyright = '©Houss'
+timeout = '120s'
+
+[params]
+	defaultTheme = "dark"
+	description = "Let me tell your story in a picture"
+	[params.author]
+		name = "Julius Cäsar"
+	
+	[params.socialIcons]
+		instagram = "https://www.instagram.com/houss_brs/"
+		tiktok = "https://www.tiktok.com/@houss800?_t=8lbn4VGFHlu&_r=1"
+		facebook = "https://www.facebook.com/houssem.bouras.52/"
+		email = "mailto:user@example.com"
+
+[menus]
+   [[menus.main]]
+     name = 'Home'
+     pageRef = '/'
+     weight = 10
+   [[menus.main]]
+     name = 'Personal Shoots'
+     pageRef = 'personal'
+     weight = 20
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"

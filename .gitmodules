@@ -1,0 +1,10 @@
+[submodule "photo/themes/themes/gallery"]
+	path = photo/themes/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "photo/themes/gallery"]
+	path = photo/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "photo/cemosan61.github.io"]
+	path = photo/cemosan61.github.io
+	url = git@github.com:cemosan61/cemosan61.github.io.git
+	branch = main

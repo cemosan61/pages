@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fashion on Gallery</title>
+    <link>/categories/fashion/</link>
+    <description>Recent content in fashion on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Your Name</copyright><atom:link href="/categories/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>/fashion-beauty/</guid><media:content url="/fashion-beauty/harper-sunday-FkxXePJJH5g-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_447119_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/fashion-beauty/harper-sunday-FkxXePJJH5g-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_447119_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
